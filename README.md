@@ -20,7 +20,7 @@ you'll see a big black screw nearish to the left-center of the motherboard, it'l
 
 ---
 
-# **Enable Developer Mode:**
+## **Enable Developer Mode:**
 Hold down the Esc and Refresh keys and Power button to enter recovery mode. At the recovery screen, press  
 > **Ctrl+D,**
 
