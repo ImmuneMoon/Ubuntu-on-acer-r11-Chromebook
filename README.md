@@ -132,3 +132,8 @@ You’ll have to do this every time unless you get another bios or modify it for
 ---
 
 # **Congrats, you should have a working ex-chromebook linux machine!**
+
+# **!!! Known issues !!!**
+- There is a problem with video playback, likely an imncompatible driver or something. The audio will screech, and the video will cut out randomly whether its on a browser or now.
+- **The function keys will likely need mapping**
+- Touch screen isnt perfect
