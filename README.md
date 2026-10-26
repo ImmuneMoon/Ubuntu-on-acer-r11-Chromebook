@@ -1,3 +1,9 @@
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Acer R11 Chromebook](https://img.shields.io/badge/Device-Acer%20R11%20Chromebook-4285F4?logo=googlechrome&logoColor=white)
+![Requires removing the write-protect screw](https://img.shields.io/badge/Requires-write--protect%20screw%20removal-d73a49)
+[![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Ubuntu-on-acer-r11-Chromebook?label=updated)](https://github.com/ImmuneMoon/Ubuntu-on-acer-r11-Chromebook/commits/main)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
+
 ---
 
 ## **Ubuntu-on-acer-r11-Chromebook**
