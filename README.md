@@ -4,6 +4,8 @@
 [![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Ubuntu-on-acer-r11-Chromebook?label=updated)](https://github.com/ImmuneMoon/Ubuntu-on-acer-r11-Chromebook/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
+**📄 [Download the PDF](Ubuntu-on-acer-r11-Chromebook.pdf)**
+
 ---
 
 ## **Ubuntu-on-acer-r11-Chromebook**
@@ -111,7 +113,7 @@ instead of Chrome OS.
 ---
 
 ## **Ubuntu thumb drive,**  
-After that, it's time to use or make a live Ubuntu thumb drive, or an operating system of your choice, the lighter the better. Some other recommendations are **Kubuntu**, **Kali** (for the hacker bros), and googling **"lightweight linux distros."** If you need help building a bootable USB, **google is your friend** once again.
+After that, it's time to use or make a live Ubuntu thumb drive, or an operating system of your choice, the lighter the better. Some other recommendations are **Kubuntu**, **Kali** (for the hacker bros), and googling **"lightweight linux distros."** If you need help building a bootable USB, my [Linux install guide](https://github.com/ImmuneMoon/Linux-Install-Guide) walks through it.
 
 ---
 
